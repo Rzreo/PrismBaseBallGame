@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismBaseBallGame", "PrismBaseBallGame\PrismBaseBallGame.csproj", "{EC081571-9117-41FD-80C4-2163F7D3B1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC081571-9117-41FD-80C4-2163F7D3B1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC081571-9117-41FD-80C4-2163F7D3B1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC081571-9117-41FD-80C4-2163F7D3B1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC081571-9117-41FD-80C4-2163F7D3B1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A858A7D9-967A-4B1C-A4AE-80854F0245D7}
+	EndGlobalSection
+EndGlobal
